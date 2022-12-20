@@ -1,0 +1,9 @@
+OBJECTIVE:
+
+1 - Read multiple html files
+2 - Clean files and extract only text from html the files
+3 - Defin synonyms and variances for specific words
+4 - Search for phrases in csv file and store found phrases with their sentences in a new csv file
+5 - Printing Findings
+
+#Note: The implementation is attached in an "ipynb" and ".py" extensions
